@@ -1,0 +1,24 @@
+// 
+// Declarations  
+// ========================================================================== 
+
+// 
+// Features:
+// 
+
+$bare-fw-l:  						300;
+$bare-fw-n:  						400;
+$bare-fw-b:  						700;
+
+
+/* 
+   #fw
+   ========================================================================== */
+
+/**
+ * Font-weight
+ */
+
+.u-fw-l { font-weight: $bare-fw-l; } 
+.u-fw-n { font-weight: $bare-fw-n; }
+.u-fw-b { font-weight: $bare-fw-b; }
