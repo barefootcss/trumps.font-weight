@@ -1,11 +1,11 @@
 {
-  "name": "Fontweight Module",
+  "name": "Font-weight Module",
   "version": "1.0.0",
   "authors": [
     "Eric Harms <barefoot.css@gmail.com>"
   ],
   "description": "The font-weight module contains helper classes to change an element's font-weight.",
-  "main": "_trumps.fontweight.scss",
+  "main": "_trumps.font-weight.scss",
   "keywords": [
     "barefoot",
     "oocss",
@@ -13,7 +13,7 @@
     "framework"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/barefootcss/trumps.fontweight",
+  "homepage": "https://github.com/barefootcss/trumps.font-weight",
   "dependencies": {
     "bare-defaults": "~1.0.0"
   }
