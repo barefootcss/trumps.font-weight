@@ -6,8 +6,8 @@ The `font-weight` module contains helper classes to change an element's font-wei
 
 Install using Bower:
 
-	$ bower install --save bare-fontweight
+	$ bower install --save bare-font-weight
 
 Import into project:
 
-	@import "bower_components/bare-fontweight/trumps.fontweight";
+	@import "bower_components/bare-fontweight/trumps.font-weight";
